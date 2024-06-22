@@ -1,0 +1,52 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	/* font-size: 30px; */
+}
+.App {
+	text-align: center;
+	padding: 20px;
+}
+
+form {
+	margin-bottom: 20px;
+}
+
+input {
+	/* padding: 10px; */
+	margin: 10px;
+	align-items: start;
+	height: 25px;
+}
+p{
+	font-weight:normal;
+	/* font-size:40px; */
+	/* text-align:left; */
+	padding-left:10px;
+}
+
+button {
+	padding: 10px 20px;
+	text-align: center;
+	background-color: black;
+}
+
+.loader {
+	/* Customize your loader CSS here */
+}
+
+ul {
+	list-style: none;
+	padding: 0;
+}
+
+li {
+	border: 1px solid #ccc;
+	/* text-align:left; */
+	margin: 10px;
+	padding: 10px;
+}
+ul li h3, ul li p{
+	text-align: left;
+}
